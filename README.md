@@ -3,6 +3,10 @@
 * regex.guide는 정규표현식을 실제로 만들어보면서 재밌게 배우는 웹사이트입니다.
 * 이 웹사이트는 create-react-app으로 빌드되었으며, 라이센스는 MIT 라이센스입니다.
 
+## Wireframe
+
+![wireframe](./images/wireframe.png)
+
 ### TBD
 
 - [ ]  [regex.guide](http://regex.guide) 도메인 구입
